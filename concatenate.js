@@ -1,6 +1,8 @@
 var input1 = input.input1;
 var input2 = input.input2;
 
+// hallo
+
 output.output1 = concatenate(input1, input2);
 
 function concatenate(input1, input2) {
